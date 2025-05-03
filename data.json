@@ -1,0 +1,345 @@
+[
+  {
+    "trackguid": "D3F3AT",
+    "name": "Season 3",
+    "rankingType": "ranked-figment-build",
+    "beginTime": "2025-03-25T08:00:01.000Z",
+    "endTime": "2025-06-08T23:59:00.000Z"
+  },
+  {
+    "trackguid": "9d7ebd",
+    "name": "Season 0",
+    "rankingType": "ranked-zb",
+    "beginTime": "2023-04-01T00:00:00.000Z",
+    "endTime": "2023-06-20T08:00:00.000Z"
+  },
+  {
+    "trackguid": "8R1GHT",
+    "name": "Season 0",
+    "rankingType": "ranked-bling",
+    "beginTime": "2025-03-11T08:00:00.000Z",
+    "endTime": "2025-04-01T08:01:00.000Z"
+  },
+  {
+    "trackguid": "2776dc",
+    "name": "Season 0",
+    "rankingType": "ranked-br",
+    "beginTime": "2023-04-01T00:00:00.000Z",
+    "endTime": "2023-06-20T08:00:00.000Z"
+  },
+  {
+    "trackguid": "AjRdrb",
+    "name": "Chapter 4 Season 3",
+    "rankingType": "ranked-zb",
+    "beginTime": "2023-06-20T13:00:00.000Z",
+    "endTime": "2023-08-25T07:00:00.000Z"
+  },
+  {
+    "trackguid": "GL055Y",
+    "name": "Season 0",
+    "rankingType": "ranked-bling-nobuild",
+    "beginTime": "2025-03-11T08:00:00.000Z",
+    "endTime": "2025-04-01T08:01:00.000Z"
+  },
+  {
+    "trackguid": "G4RL1C",
+    "name": "Season 0",
+    "rankingType": "ranked-feral",
+    "beginTime": "2024-12-11T14:00:00.000Z",
+    "endTime": "2025-04-08T08:00:01.000Z"
+  },
+  {
+    "trackguid": "ggOwuK",
+    "name": "Chapter 4 Season 3",
+    "rankingType": "ranked-br",
+    "beginTime": "2023-06-20T13:00:00.000Z",
+    "endTime": "2023-08-25T07:00:00.000Z"
+  },
+  {
+    "trackguid": "yHNFu",
+    "name": "Chapter 4 Season 4",
+    "rankingType": "ranked-zb",
+    "beginTime": "2023-08-25T07:00:00.000Z",
+    "endTime": "2023-11-02T07:00:17.000Z"
+  },
+  {
+    "trackguid": "gXffl",
+    "name": "Chapter 4 Season 4",
+    "rankingType": "ranked-br",
+    "beginTime": "2023-08-25T07:00:00.000Z",
+    "endTime": "2023-11-02T07:00:17.000Z"
+  },
+  {
+    "trackguid": "OiK9k9",
+    "name": "Chapter 4 OG",
+    "rankingType": "ranked-br",
+    "beginTime": "2023-11-02T07:00:18.000Z",
+    "endTime": "2023-12-03T08:00:17.000Z"
+  },
+  {
+    "trackguid": "hEKWqj",
+    "name": "Chapter 4 OG",
+    "rankingType": "ranked-zb",
+    "beginTime": "2023-11-02T07:00:18.000Z",
+    "endTime": "2023-12-03T08:00:17.000Z"
+  },
+  {
+    "trackguid": "EYpme7",
+    "name": "Chapter 5 Season 1",
+    "rankingType": "ranked-br",
+    "beginTime": "2023-12-03T08:00:18.000Z",
+    "endTime": "2024-03-08T08:00:17.000Z"
+  },
+  {
+    "trackguid": "d0zEcd",
+    "name": "Chapter 5 Season 1",
+    "rankingType": "ranked-zb",
+    "beginTime": "2023-12-03T08:00:18.000Z",
+    "endTime": "2024-03-08T08:00:17.000Z"
+  },
+  {
+    "trackguid": "dmd372",
+    "name": "Season 0",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2023-12-07T00:00:18.000Z",
+    "endTime": "2024-04-09T08:00:00.000Z"
+  },
+  {
+    "trackguid": "a1m0n3",
+    "name": "Chapter 5 Season 2",
+    "rankingType": "ranked-zb",
+    "beginTime": "2024-03-08T10:30:00.000Z",
+    "endTime": "2024-05-24T10:00:00.000Z"
+  },
+  {
+    "trackguid": "H4B1T5",
+    "name": "Season 1",
+    "rankingType": "ranked-feral",
+    "beginTime": "2025-04-08T08:00:02.000Z",
+    "endTime": "2025-06-17T23:59:00.000Z"
+  },
+  {
+    "trackguid": "ch3353",
+    "name": "Chapter 5 Season 2",
+    "rankingType": "ranked-br",
+    "beginTime": "2024-03-08T10:30:00.000Z",
+    "endTime": "2024-05-24T10:00:00.000Z"
+  },
+  {
+    "trackguid": "rrwpwg",
+    "name": "Neon Rush",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2024-04-09T08:00:01.000Z",
+    "endTime": "2024-07-23T06:00:00.000Z"
+  },
+  {
+    "trackguid": "N4PK1N",
+    "name": "Chapter 5 Season 3",
+    "rankingType": "ranked-br",
+    "beginTime": "2024-05-24T10:00:01.000Z",
+    "endTime": "2024-08-16T04:00:00.000Z"
+  },
+  {
+    "trackguid": "L1GHT5",
+    "name": "Chapter 5 Season 3",
+    "rankingType": "ranked-zb",
+    "beginTime": "2024-05-24T10:00:01.000Z",
+    "endTime": "2024-08-16T04:00:00.000Z"
+  },
+  {
+    "trackguid": "rrzuel",
+    "name": "Inferno Island",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2024-07-23T06:00:00.000Z",
+    "endTime": "2024-10-11T08:00:00.000Z"
+  },
+  {
+    "trackguid": "S4LT3D",
+    "name": "Chapter 5 Season 4",
+    "rankingType": "ranked-br",
+    "beginTime": "2024-08-16T04:00:01.000Z",
+    "endTime": "2024-11-02T06:00:00.000Z"
+  },
+  {
+    "trackguid": "M4rC4S",
+    "name": "Season 0",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2024-09-24T13:00:00.000Z",
+    "endTime": "2024-11-02T06:00:00.000Z"
+  },
+  {
+    "trackguid": "P0T4T0",
+    "name": "Chapter 5 Season 4",
+    "rankingType": "ranked-zb",
+    "beginTime": "2024-08-16T04:00:01.000Z",
+    "endTime": "2024-11-02T06:00:00.000Z"
+  },
+  {
+    "trackguid": "L4nC3r",
+    "name": "Season 0",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2024-09-24T13:00:00.000Z",
+    "endTime": "2024-11-02T06:00:00.000Z"
+  },
+  {
+    "trackguid": "rr9qlw",
+    "name": "October 2024",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2024-10-11T08:00:00.000Z",
+    "endTime": "2024-12-01T05:00:00.000Z"
+  },
+  {
+    "trackguid": "D13tDw",
+    "name": "Chapter 5 Remix",
+    "rankingType": "ranked-zb",
+    "beginTime": "2024-11-02T06:00:01.000Z",
+    "endTime": "2024-12-01T06:00:05.000Z"
+  },
+  {
+    "trackguid": "Fr3SkA",
+    "name": "Chapter 5 Remix",
+    "rankingType": "ranked-br",
+    "beginTime": "2024-11-02T06:00:01.000Z",
+    "endTime": "2024-12-01T06:00:05.000Z"
+  },
+  {
+    "trackguid": "DR3AM5",
+    "name": "Season 1",
+    "rankingType": "ranked-figment-nobuild",
+    "beginTime": "2024-12-16T14:00:00.000Z",
+    "endTime": "2025-01-31T10:29:59.000Z"
+  },
+  {
+    "trackguid": "M3M0RY",
+    "name": "Season 1",
+    "rankingType": "ranked-figment-build",
+    "beginTime": "2024-12-16T14:00:00.000Z",
+    "endTime": "2025-01-31T10:29:59.000Z"
+  },
+  {
+    "trackguid": "P3PP3R",
+    "name": "Chapter 5 Remix",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2024-11-02T06:00:01.000Z",
+    "endTime": "2025-02-11T13:59:59.000Z"
+  },
+  {
+    "trackguid": "W4FFL3",
+    "name": "Chapter 5 Remix",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2024-11-02T06:00:01.000Z",
+    "endTime": "2025-02-11T13:59:59.000Z"
+  },
+  {
+    "trackguid": "rrhr6d",
+    "name": "December 2024",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2024-12-01T05:00:00.000Z",
+    "endTime": "2025-02-21T08:00:00.000Z"
+  },
+  {
+    "trackguid": "SP1D3R",
+    "name": "Chapter 6 Season 1",
+    "rankingType": "ranked-zb",
+    "beginTime": "2024-12-01T06:00:06.000Z",
+    "endTime": "2025-02-21T08:59:59.000Z"
+  },
+  {
+    "trackguid": "Gl4ss1",
+    "name": "Chapter 6 Season 1",
+    "rankingType": "ranked-br",
+    "beginTime": "2024-12-01T06:00:06.000Z",
+    "endTime": "2025-02-21T08:59:59.000Z"
+  },
+  {
+    "trackguid": "G0LD3N",
+    "name": "Season 2",
+    "rankingType": "ranked-figment-nobuild",
+    "beginTime": "2025-01-31T10:30:00.000Z",
+    "endTime": "2025-03-25T08:00:00.000Z"
+  },
+  {
+    "trackguid": "RU5T3D",
+    "name": "Season 2",
+    "rankingType": "ranked-figment-build",
+    "beginTime": "2025-01-31T10:30:00.000Z",
+    "endTime": "2025-03-25T08:00:00.000Z"
+  },
+  {
+    "trackguid": "SUG4R",
+    "name": "Season 2",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-02-11T14:00:00.000Z",
+    "endTime": "2025-04-15T10:59:00.000Z"
+  },
+  {
+    "trackguid": "rr36y9",
+    "name": "February 2025",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2025-02-21T08:00:00.000Z",
+    "endTime": "2025-05-02T08:00:00.000Z"
+  },
+  {
+    "trackguid": "SP1C3",
+    "name": "Season 2",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2025-02-11T14:00:00.000Z",
+    "endTime": "2025-04-15T10:59:00.000Z"
+  },
+  {
+    "trackguid": "QU3ST",
+    "name": "Season 3",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-04-15T11:00:00.000Z",
+    "endTime": "2025-07-22T23:59:00.000Z"
+  },
+  {
+    "trackguid": "L3GND",
+    "name": "Season 3",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2025-04-15T11:00:00.000Z",
+    "endTime": "2025-07-22T23:59:00.000Z"
+  },
+  {
+    "trackguid": "rrg9wp",
+    "name": "???",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2025-05-02T08:00:01.000Z",
+    "endTime": "2025-06-07T23:59:00.000Z"
+  },
+  {
+    "trackguid": "S4ngu1",
+    "name": "Chapter 6 Season 2",
+    "rankingType": "ranked-br",
+    "beginTime": "2025-02-21T09:00:00.000Z",
+    "endTime": "2025-05-02T08:00:00.000Z"
+  },
+  {
+    "trackguid": "vidr1o",
+    "name": "Chapter 6 Season 2",
+    "rankingType": "ranked-zb",
+    "beginTime": "2025-02-21T09:00:00.000Z",
+    "endTime": "2025-05-02T08:00:00.000Z"
+  },
+  {
+    "trackguid": "Pr1c3s",
+    "name": "???",
+    "rankingType": "ranked-br",
+    "beginTime": "2025-05-02T08:00:01.000Z",
+    "endTime": "2025-06-07T23:59:00.000Z"
+  },
+  {
+    "trackguid": "C4m1s4",
+    "name": "???",
+    "rankingType": "ranked-zb",
+    "beginTime": "2025-05-02T08:00:01.000Z",
+    "endTime": "2025-06-07T23:59:00.000Z"
+  },
+  {
+    "trackguid": "D3F3ND",
+    "name": "Season 3",
+    "rankingType": "ranked-figment-nobuild",
+    "beginTime": "2025-03-25T08:00:01.000Z",
+    "endTime": "2025-06-08T23:59:00.000Z"
+  }
+]
