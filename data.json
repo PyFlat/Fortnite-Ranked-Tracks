@@ -301,13 +301,6 @@
     "endTime": "2025-07-22T23:59:00.000Z"
   },
   {
-    "trackguid": "rrg9wp",
-    "name": "???",
-    "rankingType": "delmar-competitive",
-    "beginTime": "2025-05-02T08:00:01.000Z",
-    "endTime": "2025-06-07T23:59:00.000Z"
-  },
-  {
     "trackguid": "S4ngu1",
     "name": "Chapter 6 Season 2",
     "rankingType": "ranked-br",
@@ -322,16 +315,23 @@
     "endTime": "2025-05-02T08:00:00.000Z"
   },
   {
+    "trackguid": "C4m1s4",
+    "name": "Chapter 6 Season 3",
+    "rankingType": "ranked-zb",
+    "beginTime": "2025-05-02T08:00:01.000Z",
+    "endTime": "2025-06-07T23:59:00.000Z"
+  },
+  {
     "trackguid": "Pr1c3s",
-    "name": "???",
+    "name": "Chapter 6 Season 3",
     "rankingType": "ranked-br",
     "beginTime": "2025-05-02T08:00:01.000Z",
     "endTime": "2025-06-07T23:59:00.000Z"
   },
   {
-    "trackguid": "C4m1s4",
-    "name": "???",
-    "rankingType": "ranked-zb",
+    "trackguid": "rrg9wp",
+    "name": "May 2025",
+    "rankingType": "delmar-competitive",
     "beginTime": "2025-05-02T08:00:01.000Z",
     "endTime": "2025-06-07T23:59:00.000Z"
   },
