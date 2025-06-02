@@ -248,22 +248,6 @@
     "useRanks": 0
   },
   {
-    "trackguid": "P3PP3R",
-    "name": "Chapter 5 Remix",
-    "rankingType": "ranked_blastberry_build",
-    "beginTime": "2024-11-02T06:00:01.000Z",
-    "endTime": "2025-02-11T13:59:59.000Z",
-    "useRanks": 0
-  },
-  {
-    "trackguid": "W4FFL3",
-    "name": "Chapter 5 Remix",
-    "rankingType": "ranked_blastberry_nobuild",
-    "beginTime": "2024-11-02T06:00:01.000Z",
-    "endTime": "2025-02-11T13:59:59.000Z",
-    "useRanks": 0
-  },
-  {
     "trackguid": "rrhr6d",
     "name": "December 2024",
     "rankingType": "delmar-competitive",
@@ -368,27 +352,43 @@
     "useRanks": 0
   },
   {
-    "trackguid": "C4m1s4",
-    "name": "Chapter 6 Season 3",
-    "rankingType": "ranked-zb",
-    "beginTime": "2025-05-02T08:00:01.000Z",
-    "endTime": "2025-06-07T23:59:00.000Z",
-    "useRanks": 1
+    "trackguid": "D3F3ND",
+    "name": "Season 3",
+    "rankingType": "ranked-figment-nobuild",
+    "beginTime": "2025-03-25T08:00:01.000Z",
+    "endTime": "2025-06-08T23:59:00.000Z",
+    "useRanks": 0
   },
   {
     "trackguid": "Pr1c3s",
-    "name": "Chapter 6 Season 3",
+    "name": "Chapter 6 Galactic Battle",
     "rankingType": "ranked-br",
     "beginTime": "2025-05-02T08:00:01.000Z",
     "endTime": "2025-06-07T23:59:00.000Z",
     "useRanks": 1
   },
   {
-    "trackguid": "D3F3ND",
-    "name": "Season 3",
-    "rankingType": "ranked-figment-nobuild",
-    "beginTime": "2025-03-25T08:00:01.000Z",
-    "endTime": "2025-06-08T23:59:00.000Z",
+    "trackguid": "C4m1s4",
+    "name": "Chapter 6 Galactic Battle",
+    "rankingType": "ranked-zb",
+    "beginTime": "2025-05-02T08:00:01.000Z",
+    "endTime": "2025-06-07T23:59:00.000Z",
+    "useRanks": 1
+  },
+  {
+    "trackguid": "W4FFL3",
+    "name": "Season 1",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2024-11-02T06:00:01.000Z",
+    "endTime": "2025-02-11T13:59:59.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "P3PP3R",
+    "name": "Season 1",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2024-11-02T06:00:01.000Z",
+    "endTime": "2025-02-11T13:59:59.000Z",
     "useRanks": 0
   }
 ]
