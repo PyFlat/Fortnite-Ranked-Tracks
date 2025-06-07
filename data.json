@@ -1,13 +1,5 @@
 [
   {
-    "trackguid": "D3F3AT",
-    "name": "Season 3",
-    "rankingType": "ranked-figment-build",
-    "beginTime": "2025-03-25T08:00:01.000Z",
-    "endTime": "2025-06-08T23:59:00.000Z",
-    "useRanks": 0
-  },
-  {
     "trackguid": "9d7ebd",
     "name": "Season 0",
     "rankingType": "ranked-zb",
@@ -344,38 +336,6 @@
     "useRanks": 0
   },
   {
-    "trackguid": "rrg9wp",
-    "name": "May 2025",
-    "rankingType": "delmar-competitive",
-    "beginTime": "2025-05-02T08:00:01.000Z",
-    "endTime": "2025-06-07T23:59:00.000Z",
-    "useRanks": 0
-  },
-  {
-    "trackguid": "D3F3ND",
-    "name": "Season 3",
-    "rankingType": "ranked-figment-nobuild",
-    "beginTime": "2025-03-25T08:00:01.000Z",
-    "endTime": "2025-06-08T23:59:00.000Z",
-    "useRanks": 0
-  },
-  {
-    "trackguid": "Pr1c3s",
-    "name": "Chapter 6 Galactic Battle",
-    "rankingType": "ranked-br",
-    "beginTime": "2025-05-02T08:00:01.000Z",
-    "endTime": "2025-06-07T23:59:00.000Z",
-    "useRanks": 1
-  },
-  {
-    "trackguid": "C4m1s4",
-    "name": "Chapter 6 Galactic Battle",
-    "rankingType": "ranked-zb",
-    "beginTime": "2025-05-02T08:00:01.000Z",
-    "endTime": "2025-06-07T23:59:00.000Z",
-    "useRanks": 1
-  },
-  {
     "trackguid": "W4FFL3",
     "name": "Season 1",
     "rankingType": "ranked_blastberry_nobuild",
@@ -389,6 +349,70 @@
     "rankingType": "ranked_blastberry_build",
     "beginTime": "2024-11-02T06:00:01.000Z",
     "endTime": "2025-02-11T13:59:59.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "D3F3ND",
+    "name": "Season 3",
+    "rankingType": "ranked-figment-nobuild",
+    "beginTime": "2025-03-25T08:00:01.000Z",
+    "endTime": "2025-06-07T18:30:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "C4m1s4",
+    "name": "Chapter 6 Galactic Battle",
+    "rankingType": "ranked-zb",
+    "beginTime": "2025-05-02T08:00:01.000Z",
+    "endTime": "2025-06-07T18:30:00.000Z",
+    "useRanks": 1
+  },
+  {
+    "trackguid": "D3F3AT",
+    "name": "Season 3",
+    "rankingType": "ranked-figment-build",
+    "beginTime": "2025-03-25T08:00:01.000Z",
+    "endTime": "2025-06-07T18:30:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "rrg9wp",
+    "name": "May 2025",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2025-05-02T08:00:01.000Z",
+    "endTime": "2025-06-07T18:30:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "Pr1c3s",
+    "name": "Chapter 6 Galactic Battle",
+    "rankingType": "ranked-br",
+    "beginTime": "2025-05-02T08:00:01.000Z",
+    "endTime": "2025-06-07T18:30:00.000Z",
+    "useRanks": 1
+  },
+  {
+    "trackguid": "0r4ng3",
+    "name": "???",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2025-06-07T18:30:01.000Z",
+    "endTime": "2025-08-08T23:59:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "b3atle",
+    "name": "Chapter 6 Season 3",
+    "rankingType": "ranked-zb",
+    "beginTime": "2025-06-07T18:30:01.000Z",
+    "endTime": "2025-08-08T23:59:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "c0off3",
+    "name": "Chapter 6 Season 3",
+    "rankingType": "ranked-br",
+    "beginTime": "2025-06-07T18:30:01.000Z",
+    "endTime": "2025-08-08T23:59:00.000Z",
     "useRanks": 0
   }
 ]
