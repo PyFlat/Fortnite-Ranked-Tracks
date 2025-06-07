@@ -392,14 +392,6 @@
     "useRanks": 1
   },
   {
-    "trackguid": "0r4ng3",
-    "name": "???",
-    "rankingType": "delmar-competitive",
-    "beginTime": "2025-06-07T18:30:01.000Z",
-    "endTime": "2025-08-08T23:59:00.000Z",
-    "useRanks": 0
-  },
-  {
     "trackguid": "b3atle",
     "name": "Chapter 6 Season 3",
     "rankingType": "ranked-zb",
@@ -411,6 +403,14 @@
     "trackguid": "c0off3",
     "name": "Chapter 6 Season 3",
     "rankingType": "ranked-br",
+    "beginTime": "2025-06-07T18:30:01.000Z",
+    "endTime": "2025-08-08T23:59:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "0r4ng3",
+    "name": "June 2025",
+    "rankingType": "delmar-competitive",
     "beginTime": "2025-06-07T18:30:01.000Z",
     "endTime": "2025-08-08T23:59:00.000Z",
     "useRanks": 0
