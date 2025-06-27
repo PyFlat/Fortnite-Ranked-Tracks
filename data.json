@@ -296,22 +296,6 @@
     "useRanks": 0
   },
   {
-    "trackguid": "QU3ST",
-    "name": "Season 3",
-    "rankingType": "ranked_blastberry_build",
-    "beginTime": "2025-04-15T11:00:00.000Z",
-    "endTime": "2025-07-22T23:59:00.000Z",
-    "useRanks": 0
-  },
-  {
-    "trackguid": "L3GND",
-    "name": "Season 3",
-    "rankingType": "ranked_blastberry_nobuild",
-    "beginTime": "2025-04-15T11:00:00.000Z",
-    "endTime": "2025-07-22T23:59:00.000Z",
-    "useRanks": 0
-  },
-  {
     "trackguid": "S4ngu1",
     "name": "Chapter 6 Season 2",
     "rankingType": "ranked-br",
@@ -420,6 +404,38 @@
     "name": "???",
     "rankingType": "ranked-feral",
     "beginTime": "2025-06-18T09:01:00.000Z",
+    "endTime": "2025-10-03T23:59:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "QU3ST",
+    "name": "Season 3",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-04-15T11:00:00.000Z",
+    "endTime": "2025-06-27T11:00:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "L3GND",
+    "name": "Season 3",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2025-04-15T11:00:00.000Z",
+    "endTime": "2025-06-27T11:00:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "3Nd1nG",
+    "name": "???",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-06-27T11:00:01.000Z",
+    "endTime": "2025-10-03T23:59:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "T1cK3t",
+    "name": "???",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2025-06-27T11:00:01.000Z",
     "endTime": "2025-10-03T23:59:00.000Z",
     "useRanks": 0
   }
