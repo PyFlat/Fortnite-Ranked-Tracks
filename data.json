@@ -312,6 +312,22 @@
     "useRanks": 0
   },
   {
+    "trackguid": "b3atle",
+    "name": "Chapter 6 Season 3",
+    "rankingType": "ranked-zb",
+    "beginTime": "2025-06-07T18:30:01.000Z",
+    "endTime": "2025-08-07T07:00:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "c0off3",
+    "name": "Chapter 6 Season 3",
+    "rankingType": "ranked-br",
+    "beginTime": "2025-06-07T18:30:01.000Z",
+    "endTime": "2025-08-07T07:00:00.000Z",
+    "useRanks": 0
+  },
+  {
     "trackguid": "W4FFL3",
     "name": "Season 1",
     "rankingType": "ranked_blastberry_nobuild",
@@ -368,19 +384,11 @@
     "useRanks": 1
   },
   {
-    "trackguid": "b3atle",
-    "name": "Chapter 6 Season 3",
-    "rankingType": "ranked-zb",
-    "beginTime": "2025-06-07T18:30:01.000Z",
-    "endTime": "2025-08-08T23:59:00.000Z",
-    "useRanks": 0
-  },
-  {
-    "trackguid": "c0off3",
-    "name": "Chapter 6 Season 3",
-    "rankingType": "ranked-br",
-    "beginTime": "2025-06-07T18:30:01.000Z",
-    "endTime": "2025-08-08T23:59:00.000Z",
+    "trackguid": "H4B1T5",
+    "name": "Season 1",
+    "rankingType": "ranked-feral",
+    "beginTime": "2025-04-08T08:00:02.000Z",
+    "endTime": "2025-06-18T09:00:00.000Z",
     "useRanks": 0
   },
   {
@@ -388,15 +396,7 @@
     "name": "June 2025",
     "rankingType": "delmar-competitive",
     "beginTime": "2025-06-07T18:30:01.000Z",
-    "endTime": "2025-08-08T23:59:00.000Z",
-    "useRanks": 0
-  },
-  {
-    "trackguid": "H4B1T5",
-    "name": "Season 1",
-    "rankingType": "ranked-feral",
-    "beginTime": "2025-04-08T08:00:02.000Z",
-    "endTime": "2025-06-18T09:00:00.000Z",
+    "endTime": "2025-08-07T07:00:00.000Z",
     "useRanks": 0
   },
   {
@@ -437,6 +437,30 @@
     "rankingType": "ranked-feral",
     "beginTime": "2025-06-18T09:01:00.000Z",
     "endTime": "2025-10-03T23:59:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "t3ab4g",
+    "name": "???",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2025-08-07T07:00:01.000Z",
+    "endTime": "2025-11-01T23:59:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "d0gg1e",
+    "name": "Chapter 6 Season 4",
+    "rankingType": "ranked-zb",
+    "beginTime": "2025-08-07T07:00:01.000Z",
+    "endTime": "2025-11-01T23:59:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "k1tt3n",
+    "name": "Chapter 6 Season 4",
+    "rankingType": "ranked-br",
+    "beginTime": "2025-08-07T07:00:01.000Z",
+    "endTime": "2025-11-01T23:59:00.000Z",
     "useRanks": 0
   }
 ]
