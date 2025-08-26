@@ -416,22 +416,6 @@
     "useRanks": 0
   },
   {
-    "trackguid": "3Nd1nG",
-    "name": "Season 4",
-    "rankingType": "ranked_blastberry_build",
-    "beginTime": "2025-06-27T11:00:01.000Z",
-    "endTime": "2025-10-03T23:59:00.000Z",
-    "useRanks": 0
-  },
-  {
-    "trackguid": "T1cK3t",
-    "name": "Season 4",
-    "rankingType": "ranked_blastberry_nobuild",
-    "beginTime": "2025-06-27T11:00:01.000Z",
-    "endTime": "2025-10-03T23:59:00.000Z",
-    "useRanks": 0
-  },
-  {
     "trackguid": "8UFF3D",
     "name": "Season 2",
     "rankingType": "ranked-feral",
@@ -461,6 +445,38 @@
     "rankingType": "ranked-br",
     "beginTime": "2025-08-07T07:00:01.000Z",
     "endTime": "2025-11-01T23:59:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "T1cK3t",
+    "name": "Season 4",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2025-06-27T11:00:01.000Z",
+    "endTime": "2025-08-26T08:00:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "3Nd1nG",
+    "name": "Season 4",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-06-27T11:00:01.000Z",
+    "endTime": "2025-08-26T08:00:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "7H0m4S",
+    "name": "???",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-08-26T08:00:01.000Z",
+    "endTime": "2026-03-01T23:59:00.000Z",
+    "useRanks": 0
+  },
+  {
+    "trackguid": "5oL4R3",
+    "name": "???",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2025-08-26T08:00:01.000Z",
+    "endTime": "2026-03-01T23:59:00.000Z",
     "useRanks": 0
   }
 ]
