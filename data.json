@@ -1,14 +1,5 @@
 [
   {
-    "trackguid": "8UFF3D",
-    "name": "Season 2",
-    "rankingType": "ranked-feral",
-    "beginTime": "2025-06-18T09:01:00.000Z",
-    "endTime": "2025-10-03T23:59:00.000Z",
-    "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_feral_season36"
-  },
-  {
     "trackguid": "k1tt3n",
     "name": "Chapter 6 Season 4",
     "rankingType": "ranked-br",
@@ -25,6 +16,15 @@
     "endTime": "2023-06-20T08:00:00.000Z",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_zb_season24"
+  },
+  {
+    "trackguid": "8UFF3D",
+    "name": "Season 2",
+    "rankingType": "ranked-feral",
+    "beginTime": "2025-06-18T09:01:00.000Z",
+    "endTime": "2025-09-10T08:10:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_feral_season36"
   },
   {
     "trackguid": "2776dc",
