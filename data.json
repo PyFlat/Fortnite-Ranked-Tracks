@@ -504,6 +504,15 @@
     "leaderboardEventId": "epicgames_ranked_blastberry_build_season36"
   },
   {
+    "trackguid": "7H0m4S",
+    "name": "Season 5",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-08-26T08:00:01.000Z",
+    "endTime": "2025-10-09T08:00:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_blastberry_build_season37"
+  },
+  {
     "trackguid": "d0gg1e",
     "name": "Chapter 6 Season 4",
     "rankingType": "ranked-zb",
@@ -513,22 +522,22 @@
     "leaderboardEventId": "epicgames_ranked_zb_season37"
   },
   {
-    "trackguid": "7H0m4S",
-    "name": "Season 5",
-    "rankingType": "ranked_blastberry_build",
-    "beginTime": "2025-08-26T08:00:01.000Z",
-    "endTime": "2026-03-01T23:59:00.000Z",
-    "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_blastberry_build_season37"
-  },
-  {
     "trackguid": "5oL4R3",
     "name": "Season 5",
     "rankingType": "ranked_blastberry_nobuild",
     "beginTime": "2025-08-26T08:00:01.000Z",
-    "endTime": "2026-03-01T23:59:00.000Z",
+    "endTime": "2025-10-09T08:00:00.000Z",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_blastberry_zb_season37"
+  },
+  {
+    "trackguid": "Dr4g0N",
+    "name": "???",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-10-09T08:00:01.000Z",
+    "endTime": "2026-03-01T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_blastberry_build_season37v2"
   },
   {
     "trackguid": "H4CK3D",
@@ -547,5 +556,14 @@
     "endTime": "2025-11-01T23:59:00.000Z",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_rr_season8"
+  },
+  {
+    "trackguid": "g0Tc5A",
+    "name": "???",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2025-10-09T08:00:01.000Z",
+    "endTime": "2026-03-01T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_blastberry_zb_season37v2"
   }
 ]
