@@ -513,6 +513,15 @@
     "leaderboardEventId": "epicgames_ranked_blastberry_build_season37"
   },
   {
+    "trackguid": "Dr4g0N",
+    "name": "Season 6",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-10-09T08:00:01.000Z",
+    "endTime": "2026-03-01T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_blastberry_build_season37v2"
+  },
+  {
     "trackguid": "5oL4R3",
     "name": "Season 5",
     "rankingType": "ranked_blastberry_nobuild",
@@ -520,15 +529,6 @@
     "endTime": "2025-10-09T08:00:00.000Z",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_blastberry_zb_season37"
-  },
-  {
-    "trackguid": "Dr4g0N",
-    "name": "???",
-    "rankingType": "ranked_blastberry_build",
-    "beginTime": "2025-10-09T08:00:01.000Z",
-    "endTime": "2026-03-01T23:59:00.000Z",
-    "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_blastberry_build_season37v2"
   },
   {
     "trackguid": "H4CK3D",
@@ -549,15 +549,6 @@
     "leaderboardEventId": "epicgames_ranked_zb_season37"
   },
   {
-    "trackguid": "g0Tc5A",
-    "name": "???",
-    "rankingType": "ranked_blastberry_nobuild",
-    "beginTime": "2025-10-09T08:00:01.000Z",
-    "endTime": "2026-03-01T23:59:00.000Z",
-    "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_blastberry_zb_season37v2"
-  },
-  {
     "trackguid": "k1tt3n",
     "name": "Chapter 6 Season 4",
     "rankingType": "ranked-br",
@@ -567,17 +558,17 @@
     "leaderboardEventId": "epicgames_ranked_br_season37"
   },
   {
-    "trackguid": "m0rt4l",
-    "name": "???",
-    "rankingType": "ranked-br",
-    "beginTime": "2025-11-01T16:00:01.000Z",
-    "endTime": "2025-11-30T23:59:00.000Z",
+    "trackguid": "g0Tc5A",
+    "name": "Season 6",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2025-10-09T08:00:01.000Z",
+    "endTime": "2026-03-01T23:59:00.000Z",
     "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_br_season38"
+    "leaderboardEventId": "epicgames_ranked_blastberry_zb_season37v2"
   },
   {
     "trackguid": "d13nt3",
-    "name": "???",
+    "name": "Chapter 6 The Simpsons",
     "rankingType": "ranked-zb",
     "beginTime": "2025-11-01T16:00:01.000Z",
     "endTime": "2025-11-30T23:59:00.000Z",
@@ -585,8 +576,17 @@
     "leaderboardEventId": "epicgames_ranked_zb_season38"
   },
   {
+    "trackguid": "m0rt4l",
+    "name": "Chapter 6 The Simpsons",
+    "rankingType": "ranked-br",
+    "beginTime": "2025-11-01T16:00:01.000Z",
+    "endTime": "2025-11-30T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_br_season38"
+  },
+  {
     "trackguid": "th3wh0",
-    "name": "???",
+    "name": "November 2025",
     "rankingType": "delmar-competitive",
     "beginTime": "2025-11-01T16:00:01.000Z",
     "endTime": "2025-11-30T23:59:00.000Z",
