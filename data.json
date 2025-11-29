@@ -513,13 +513,13 @@
     "leaderboardEventId": "epicgames_ranked_blastberry_build_season37"
   },
   {
-    "trackguid": "Dr4g0N",
-    "name": "Season 6",
-    "rankingType": "ranked_blastberry_build",
-    "beginTime": "2025-10-09T08:00:01.000Z",
-    "endTime": "2026-03-01T23:59:00.000Z",
+    "trackguid": "H4CK3D",
+    "name": "Season 3",
+    "rankingType": "ranked-feral",
+    "beginTime": "2025-09-10T08:10:01.000Z",
+    "endTime": "2025-11-29T19:30:00.000Z",
     "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_blastberry_build_season37v2"
+    "leaderboardEventId": "epicgames_ranked_feral_season37"
   },
   {
     "trackguid": "5oL4R3",
@@ -531,15 +531,6 @@
     "leaderboardEventId": "epicgames_ranked_blastberry_zb_season37"
   },
   {
-    "trackguid": "H4CK3D",
-    "name": "Season 3",
-    "rankingType": "ranked-feral",
-    "beginTime": "2025-09-10T08:10:01.000Z",
-    "endTime": "2026-12-01T23:59:00.000Z",
-    "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_feral_season37"
-  },
-  {
     "trackguid": "d0gg1e",
     "name": "Chapter 6 Season 4",
     "rankingType": "ranked-zb",
@@ -547,6 +538,15 @@
     "endTime": "2025-11-01T16:00:00.000Z",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_zb_season37"
+  },
+  {
+    "trackguid": "Dr4g0N",
+    "name": "Season 6",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-10-09T08:00:01.000Z",
+    "endTime": "2025-11-29T19:30:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_blastberry_build_season37v2"
   },
   {
     "trackguid": "k1tt3n",
@@ -558,20 +558,11 @@
     "leaderboardEventId": "epicgames_ranked_br_season37"
   },
   {
-    "trackguid": "g0Tc5A",
-    "name": "Season 6",
-    "rankingType": "ranked_blastberry_nobuild",
-    "beginTime": "2025-10-09T08:00:01.000Z",
-    "endTime": "2026-03-01T23:59:00.000Z",
-    "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_blastberry_zb_season37v2"
-  },
-  {
     "trackguid": "d13nt3",
     "name": "Chapter 6 The Simpsons",
     "rankingType": "ranked-zb",
     "beginTime": "2025-11-01T16:00:01.000Z",
-    "endTime": "2025-11-30T23:59:00.000Z",
+    "endTime": "2025-11-29T19:30:00.000Z",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_zb_season38"
   },
@@ -580,7 +571,7 @@
     "name": "Chapter 6 The Simpsons",
     "rankingType": "ranked-br",
     "beginTime": "2025-11-01T16:00:01.000Z",
-    "endTime": "2025-11-30T23:59:00.000Z",
+    "endTime": "2025-11-29T19:30:00.000Z",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_br_season38"
   },
@@ -589,8 +580,71 @@
     "name": "November 2025",
     "rankingType": "delmar-competitive",
     "beginTime": "2025-11-01T16:00:01.000Z",
-    "endTime": "2025-11-30T23:59:00.000Z",
+    "endTime": "2025-11-29T19:30:00.000Z",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_rr_season9"
+  },
+  {
+    "trackguid": "g0Tc5A",
+    "name": "Season 6",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2025-10-09T08:00:01.000Z",
+    "endTime": "2025-11-29T19:30:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_blastberry_zb_season37v2"
+  },
+  {
+    "trackguid": "F0RC3D",
+    "name": "???",
+    "rankingType": "ranked-feral",
+    "beginTime": "2025-11-29T19:30:01.000Z",
+    "endTime": "2026-04-01T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_feral_season39"
+  },
+  {
+    "trackguid": "sw0rd2",
+    "name": "???",
+    "rankingType": "ranked-br",
+    "beginTime": "2025-11-29T19:30:01.000Z",
+    "endTime": "2026-05-01T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_br_season39"
+  },
+  {
+    "trackguid": "dut13s",
+    "name": "???",
+    "rankingType": "ranked-zb",
+    "beginTime": "2025-11-29T19:30:01.000Z",
+    "endTime": "2026-05-01T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_zb_season39"
+  },
+  {
+    "trackguid": "S4B3R5",
+    "name": "???",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-11-29T19:30:01.000Z",
+    "endTime": "2026-03-01T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_blastberry_build_season39"
+  },
+  {
+    "trackguid": "tupp3r",
+    "name": "???",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2025-11-29T19:30:01.000Z",
+    "endTime": "2026-05-01T00:00:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_rr_season10"
+  },
+  {
+    "trackguid": "T4BL3D",
+    "name": "???",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2025-11-29T19:30:01.000Z",
+    "endTime": "2026-03-01T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_blastberry_zb_season39"
   }
 ]
