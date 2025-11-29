@@ -594,17 +594,8 @@
     "leaderboardEventId": "epicgames_ranked_blastberry_zb_season37v2"
   },
   {
-    "trackguid": "F0RC3D",
-    "name": "???",
-    "rankingType": "ranked-feral",
-    "beginTime": "2025-11-29T19:30:01.000Z",
-    "endTime": "2026-04-01T23:59:00.000Z",
-    "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_feral_season39"
-  },
-  {
     "trackguid": "sw0rd2",
-    "name": "???",
+    "name": "Chapter 7 Season 1",
     "rankingType": "ranked-br",
     "beginTime": "2025-11-29T19:30:01.000Z",
     "endTime": "2026-05-01T23:59:00.000Z",
@@ -613,7 +604,7 @@
   },
   {
     "trackguid": "dut13s",
-    "name": "???",
+    "name": "Chapter 7 Season 1",
     "rankingType": "ranked-zb",
     "beginTime": "2025-11-29T19:30:01.000Z",
     "endTime": "2026-05-01T23:59:00.000Z",
@@ -621,17 +612,8 @@
     "leaderboardEventId": "epicgames_ranked_zb_season39"
   },
   {
-    "trackguid": "S4B3R5",
-    "name": "???",
-    "rankingType": "ranked_blastberry_build",
-    "beginTime": "2025-11-29T19:30:01.000Z",
-    "endTime": "2026-03-01T23:59:00.000Z",
-    "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_blastberry_build_season39"
-  },
-  {
     "trackguid": "tupp3r",
-    "name": "???",
+    "name": "December 2025",
     "rankingType": "delmar-competitive",
     "beginTime": "2025-11-29T19:30:01.000Z",
     "endTime": "2026-05-01T00:00:00.000Z",
@@ -639,8 +621,26 @@
     "leaderboardEventId": "epicgames_ranked_rr_season10"
   },
   {
+    "trackguid": "F0RC3D",
+    "name": "Season 4",
+    "rankingType": "ranked-feral",
+    "beginTime": "2025-11-29T19:30:01.000Z",
+    "endTime": "2026-04-01T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_feral_season39"
+  },
+  {
+    "trackguid": "S4B3R5",
+    "name": "Season 7",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2025-11-29T19:30:01.000Z",
+    "endTime": "2026-03-01T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_blastberry_build_season39"
+  },
+  {
     "trackguid": "T4BL3D",
-    "name": "???",
+    "name": "Season 7",
     "rankingType": "ranked_blastberry_nobuild",
     "beginTime": "2025-11-29T19:30:01.000Z",
     "endTime": "2026-03-01T23:59:00.000Z",
