@@ -630,15 +630,6 @@
     "leaderboardEventId": "epicgames_ranked_feral_season39"
   },
   {
-    "trackguid": "8R1DG3",
-    "name": "???",
-    "rankingType": "ranked-pimlico",
-    "beginTime": "2026-01-23T14:30:00.000Z",
-    "endTime": "2026-02-09T14:30:00.000Z",
-    "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_pimlico_v0"
-  },
-  {
     "trackguid": "S4B3R5",
     "name": "Season 7",
     "rankingType": "ranked_blastberry_build",
@@ -657,21 +648,30 @@
     "leaderboardEventId": "epicgames_ranked_blastberry_zb_season39"
   },
   {
-    "trackguid": "ST33L5",
-    "name": "???",
-    "rankingType": "ranked_blastberry_build",
-    "beginTime": "2026-02-19T09:00:01.000Z",
-    "endTime": "2026-08-18T23:59:00.000Z",
+    "trackguid": "8R1DG3",
+    "name": "Season 0",
+    "rankingType": "ranked-pimlico",
+    "beginTime": "2026-01-23T14:30:00.000Z",
+    "endTime": "2026-02-09T14:30:00.000Z",
     "useRanks": 0,
-    "leaderboardEventId": "epicgames_ranked_blastberry_build_season39v2"
+    "leaderboardEventId": "epicgames_ranked_pimlico_v0"
   },
   {
     "trackguid": "ST0RM5",
-    "name": "???",
+    "name": "Season 8",
     "rankingType": "ranked_blastberry_nobuild",
     "beginTime": "2026-02-19T09:00:01.000Z",
     "endTime": "2026-08-18T23:59:00.000Z",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_blastberry_zb_season39v2"
+  },
+  {
+    "trackguid": "ST33L5",
+    "name": "Season 8",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2026-02-19T09:00:01.000Z",
+    "endTime": "2026-08-18T23:59:00.000Z",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_blastberry_build_season39v2"
   }
 ]
