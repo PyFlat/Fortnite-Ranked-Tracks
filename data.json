@@ -682,5 +682,23 @@
     "endTime": "2026-07-02T01:59:00+02:00",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_br_season40"
+  },
+  {
+    "trackguid": "gr4p3s",
+    "name": "???",
+    "rankingType": "delmar-competitive",
+    "beginTime": "2026-03-19T07:00:01+01:00",
+    "endTime": "2026-07-01T02:00:00+02:00",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_rr_season11"
+  },
+  {
+    "trackguid": "c1ty17",
+    "name": "???",
+    "rankingType": "ranked-feral",
+    "beginTime": "2026-03-19T07:00:01+01:00",
+    "endTime": "2026-07-02T01:59:00+02:00",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_feral_season40"
   }
 ]
