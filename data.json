@@ -700,5 +700,14 @@
     "endTime": "2026-07-02T01:59:00+02:00",
     "useRanks": 0,
     "leaderboardEventId": "epicgames_ranked_feral_season40"
+  },
+  {
+    "trackguid": "S0UR3D",
+    "name": "???",
+    "rankingType": "ranked-squareclub",
+    "beginTime": "2026-04-09T02:00:00+02:00",
+    "endTime": "2026-10-02T01:59:00+02:00",
+    "useRanks": 0,
+    "leaderboardEventId": "epicgames_ranked_SquareClub_V1"
   }
 ]
