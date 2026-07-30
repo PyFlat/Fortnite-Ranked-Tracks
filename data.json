@@ -868,5 +868,15 @@
     "rankingType": "ranked-squareclub",
     "trackguid": "G14DI0",
     "useRanks": 2
+  },
+  {
+    "beginTime": "2026-07-30T10:10:01+02:00",
+    "divisionCount": 22,
+    "endTime": "2026-11-02T00:59:00+01:00",
+    "leaderboardEventId": "epicgames_ranked_blastberry_combined_season41",
+    "name": "Season 10",
+    "rankingType": "ranked-blastberry-combined",
+    "trackguid": "M3DK1T",
+    "useRanks": 2
   }
 ]
