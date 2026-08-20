@@ -842,7 +842,7 @@
   {
     "beginTime": "2026-06-06T03:00:00+02:00",
     "divisionCount": 22,
-    "endTime": "2026-12-07T01:00:00+01:00",
+    "endTime": "2026-08-20T08:01:00+02:00",
     "leaderboardEventId": "epicgames_ranked_br_season41",
     "name": "Chapter 7 Season 3",
     "rankingType": "ranked-br-combined",
@@ -878,5 +878,15 @@
     "rankingType": "ranked-blastberry-combined",
     "trackguid": "M3DK1T",
     "useRanks": 2
+  },
+  {
+    "beginTime": "2026-08-20T08:01:01+02:00",
+    "divisionCount": 22,
+    "endTime": "2026-12-07T01:00:00+01:00",
+    "leaderboardEventId": "epicgames_ranked_br_season42",
+    "name": "???",
+    "rankingType": "ranked-br-combined",
+    "trackguid": "M0SA1C",
+    "useRanks": -1
   }
 ]
