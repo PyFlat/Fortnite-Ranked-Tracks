@@ -888,5 +888,15 @@
     "rankingType": "ranked-br-combined",
     "trackguid": "M0SA1C",
     "useRanks": 2
+  },
+  {
+    "beginTime": "2026-10-01T10:00:01+02:00",
+    "divisionCount": 22,
+    "endTime": "2027-03-14T00:59:00+01:00",
+    "leaderboardEventId": "epicgames_ranked_SquareClub_V3",
+    "name": "???",
+    "rankingType": "ranked-squareclub",
+    "trackguid": "D3TA1L",
+    "useRanks": -1
   }
 ]
