@@ -872,7 +872,7 @@
   {
     "beginTime": "2026-07-30T10:10:01+02:00",
     "divisionCount": 22,
-    "endTime": "2026-11-02T00:59:00+01:00",
+    "endTime": "2026-10-08T12:59:59.999000+02:00",
     "leaderboardEventId": "epicgames_ranked_blastberry_combined_season41",
     "name": "Season 10",
     "rankingType": "ranked-blastberry-combined",
@@ -894,9 +894,19 @@
     "divisionCount": 22,
     "endTime": "2027-03-14T00:59:00+01:00",
     "leaderboardEventId": "epicgames_ranked_SquareClub_V3",
-    "name": "???",
+    "name": "Season 3",
     "rankingType": "ranked-squareclub",
     "trackguid": "D3TA1L",
-    "useRanks": -1
+    "useRanks": 2
+  },
+  {
+    "beginTime": "2026-10-08T13:00:00+02:00",
+    "divisionCount": 22,
+    "endTime": "2027-10-08T13:00:00+02:00",
+    "leaderboardEventId": "epicgames_ranked_blastberry_combined_season42",
+    "name": "Season 11",
+    "rankingType": "ranked-blastberry-combined",
+    "trackguid": "B0TTL3",
+    "useRanks": 2
   }
 ]
