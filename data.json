@@ -908,5 +908,35 @@
     "rankingType": "ranked-blastberry-combined",
     "trackguid": "B0TTL3",
     "useRanks": 2
+  },
+  {
+    "beginTime": "2026-10-12T02:00:00+02:00",
+    "divisionCount": 101,
+    "endTime": "2027-01-09T00:59:00+01:00",
+    "leaderboardEventId": "epicgames_RadiantToothpick_3_S0A",
+    "name": "???",
+    "rankingType": "RadiantToothpick-trios-ranked",
+    "trackguid": "RT3S0A",
+    "useRanks": -1
+  },
+  {
+    "beginTime": "2026-10-12T02:00:00+02:00",
+    "divisionCount": 101,
+    "endTime": "2027-01-09T00:59:00+01:00",
+    "leaderboardEventId": "epicgames_RadiantToothpick_2_S0A",
+    "name": "???",
+    "rankingType": "RadiantToothpick-duos-ranked",
+    "trackguid": "RT2S0A",
+    "useRanks": -1
+  },
+  {
+    "beginTime": "2026-10-12T02:00:00+02:00",
+    "divisionCount": 101,
+    "endTime": "2027-01-09T00:59:00+01:00",
+    "leaderboardEventId": "epicgames_RadiantToothpick_1_S0A",
+    "name": "???",
+    "rankingType": "RadiantToothpick-solo-ranked",
+    "trackguid": "RT1S0A",
+    "useRanks": -1
   }
 ]
